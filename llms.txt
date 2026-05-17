@@ -1,0 +1,10 @@
+ToolBudget Router MCP
+
+Paid remote MCP for context-budget routing, schema cost estimates, usage audits, and readiness.
+
+Website: https://toolbudgetrouter.clauxel.com/
+MCP endpoint: https://toolbudgetrouter.clauxel.com/mcp
+Server card: https://toolbudgetrouter.clauxel.com/.well-known/mcp/server-card.json
+Registry name: com.clauxel.toolbudgetrouter/toolbudgetrouter-mcp
+Auth: Authorization: Bearer <token> after checkout and token claim.
+Boundary: read-only fixed tools for MCP tool routing; no arbitrary shell, arbitrary SQL, deployment, deletion, or payment configuration tools.
